@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "3b60eb6f9fa80c70",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c442f3ecb6a35ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b9259b07cada28e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ae0ead50f958693",
+    "type": "split",
+    "children": [
+      {
+        "id": "810381a97dc21b44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1916829b5cefbd85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "819085492b94d5c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3c23e75e21ee69d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "246f3f17d4183ed5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4575aea9555ab8dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "942cba034d92260b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "1e7f328d3da0a5d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "181bdff7f8c492fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8ac251e91323f797",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2b9259b07cada28e",
+  "lastOpenFiles": [
+    "index.md",
+    "New Text Document.txt",
+    "Tower Automation Project/Code Snippets/Toggle Hyper-V.md",
+    "Tower Automation Project/Project Roadmap.md",
+    "Tower Automation Project/Design Decisions.md",
+    "Tower Automation Project/Code Snippets",
+    "Tower Automation Project",
+    "Game Dev/Design/2. Details.md",
+    "Game Dev/Design/1. Ideas!.md",
+    "Game Dev/Design",
+    "Game Dev",
+    "Main/1. Todo.md",
+    "Main",
+    "4. Test/cool beans.md",
+    "4. Test 2/cooler beans.md",
+    "4. Test 2/cool beans.md",
+    "4. Test 2",
+    "4. Test - Copy/cool beans.md",
+    "4. Test - Copy",
+    "3. Tower Automation Project/Project Roadmap.md",
+    "1. Main/1. Todo.md",
+    "4. Test",
+    "2. Game Dev/Design/1. Ideas!.md",
+    "Test.md",
+    "3. Tower Automation Project/Code Snippets/Toggle Hyper-V.md",
+    "3. Tower Automation Project/Design Decisions.md",
+    "3. Tower Automation Project/Code Snippets",
+    "2. Game Dev/Design/2. Details.md",
+    "Welcome.md"
+  ]
+}

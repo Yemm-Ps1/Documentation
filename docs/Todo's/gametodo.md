@@ -1,4 +1,4 @@
-# Try your best!
+# Puzzle Platformer
 
 - ~~Achieve A+ Rating on SSL Labs for yemm.dev and all subdomains~~
 - ~~Create structured Godot Project~~
@@ -10,6 +10,5 @@
 - Implement Resolution stuff
 - Implement State Machine Character Controller
 - Make persistent notes
-- Implement basic level for character to run around
-- test
-- test 2
+- ~~Implement basic level for character to run around~~
+- another item

@@ -7,6 +7,10 @@ markdown_extensions:
 
 repo_url: https://github.com/Yemm-Ps1/Documentation
 
+plugins:
+  - search
+  - awesome-nav
+
 theme:
   name: material
   features:
